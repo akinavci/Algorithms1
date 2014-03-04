@@ -1,0 +1,415 @@
+checkSurrounding = 2, 1
+[2,1] -> opened
+checkSurrounding = 2, 4
+[2,4] -> opened
+checkSurrounding = 3, 5
+[3,5] -> opened
+checkSurrounding = 1, 3
+[1,3] -> opened
+checkSurrounding = 2, 3
+checkSurrounding = 1, 3
+checkSurrounding = 2, 4
+[2,3] -> opened
+checkSurrounding = 3, 2
+[3,2] -> opened
+checkSurrounding = 1, 1
+checkSurrounding = 2, 1
+[1,1] -> opened
+checkSurrounding = 5, 3
+[5,3] -> opened
+checkSurrounding = 5, 1
+[5,1] -> opened
+checkSurrounding = 4, 4
+[4,4] -> opened
+checkSurrounding = 1, 4
+checkSurrounding = 2, 4
+[1,4] -> opened
+checkSurrounding = 5, 2
+checkSurrounding = 5, 1
+checkSurrounding = 5, 3
+[5,2] -> opened
+checkSurrounding = 5, 5
+[5,5] -> opened
+checkSurrounding = 3, 4
+checkSurrounding = 2, 4
+checkSurrounding = 4, 4
+checkSurrounding = 3, 5
+[3,4] -> opened
+checkSurrounding = 1, 2
+checkSurrounding = 1, 1
+checkSurrounding = 1, 3
+[1,2] -> opened
+checkSurrounding = 2, 2
+checkSurrounding = 1, 2
+checkSurrounding = 3, 2
+[2,2] -> opened
+checkSurrounding = 3, 3
+checkSurrounding = 2, 3
+[3,3] -> opened
+checkSurrounding = 1, 5
+checkSurrounding = 1, 4
+[1,5] -> opened
+checkSurrounding = 4, 5
+checkSurrounding = 3, 5
+checkSurrounding = 5, 5
+[4,5] -> opened
+mean                  =0.76
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 3, 1
+[3,1] -> opened
+checkSurrounding = 3, 5
+[3,5] -> opened
+checkSurrounding = 2, 5
+checkSurrounding = 3, 5
+[2,5] -> opened
+checkSurrounding = 3, 4
+checkSurrounding = 3, 5
+[3,4] -> opened
+checkSurrounding = 4, 3
+[4,3] -> opened
+checkSurrounding = 4, 1
+checkSurrounding = 3, 1
+[4,1] -> opened
+checkSurrounding = 2, 2
+[2,2] -> opened
+checkSurrounding = 3, 3
+checkSurrounding = 4, 3
+checkSurrounding = 3, 4
+[3,3] -> opened
+checkSurrounding = 5, 3
+checkSurrounding = 4, 3
+[5,3] -> opened
+checkSurrounding = 2, 1
+checkSurrounding = 3, 1
+checkSurrounding = 2, 2
+[2,1] -> opened
+checkSurrounding = 3, 2
+checkSurrounding = 2, 2
+checkSurrounding = 3, 3
+[3,2] -> opened
+checkSurrounding = 2, 4
+checkSurrounding = 3, 4
+[2,4] -> opened
+checkSurrounding = 1, 2
+checkSurrounding = 2, 2
+[1,2] -> opened
+mean                  =0.52
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 3, 1
+[3,1] -> opened
+checkSurrounding = 3, 3
+[3,3] -> opened
+checkSurrounding = 4, 1
+checkSurrounding = 3, 1
+[4,1] -> opened
+checkSurrounding = 4, 5
+[4,5] -> opened
+checkSurrounding = 5, 2
+[5,2] -> opened
+checkSurrounding = 5, 3
+checkSurrounding = 5, 2
+[5,3] -> opened
+checkSurrounding = 5, 5
+checkSurrounding = 4, 5
+[5,5] -> opened
+checkSurrounding = 1, 2
+[1,2] -> opened
+checkSurrounding = 4, 3
+checkSurrounding = 3, 3
+checkSurrounding = 5, 3
+[4,3] -> opened
+checkSurrounding = 3, 2
+checkSurrounding = 3, 1
+checkSurrounding = 3, 3
+[3,2] -> opened
+checkSurrounding = 5, 4
+checkSurrounding = 5, 3
+checkSurrounding = 5, 5
+[5,4] -> opened
+checkSurrounding = 3, 5
+checkSurrounding = 4, 5
+[3,5] -> opened
+checkSurrounding = 2, 2
+checkSurrounding = 1, 2
+checkSurrounding = 3, 2
+[2,2] -> opened
+mean                  =0.52
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 4, 2
+[4,2] -> opened
+checkSurrounding = 2, 2
+[2,2] -> opened
+checkSurrounding = 2, 1
+checkSurrounding = 2, 2
+[2,1] -> opened
+checkSurrounding = 3, 3
+[3,3] -> opened
+checkSurrounding = 1, 1
+checkSurrounding = 2, 1
+[1,1] -> opened
+checkSurrounding = 1, 2
+checkSurrounding = 2, 2
+[1,2] -> opened
+checkSurrounding = 4, 4
+[4,4] -> opened
+checkSurrounding = 3, 5
+[3,5] -> opened
+checkSurrounding = 1, 4
+[1,4] -> opened
+checkSurrounding = 2, 3
+checkSurrounding = 3, 3
+checkSurrounding = 2, 2
+[2,3] -> opened
+checkSurrounding = 5, 2
+checkSurrounding = 4, 2
+[5,2] -> opened
+checkSurrounding = 1, 5
+checkSurrounding = 1, 4
+[1,5] -> opened
+checkSurrounding = 5, 3
+checkSurrounding = 5, 2
+[5,3] -> opened
+checkSurrounding = 5, 1
+checkSurrounding = 5, 2
+[5,1] -> opened
+checkSurrounding = 5, 4
+checkSurrounding = 4, 4
+checkSurrounding = 5, 3
+[5,4] -> opened
+checkSurrounding = 2, 5
+checkSurrounding = 1, 5
+checkSurrounding = 3, 5
+[2,5] -> opened
+checkSurrounding = 4, 5
+checkSurrounding = 3, 5
+checkSurrounding = 4, 4
+[4,5] -> opened
+mean                  =0.68
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 2, 2
+[2,2] -> opened
+checkSurrounding = 5, 5
+[5,5] -> opened
+checkSurrounding = 2, 1
+checkSurrounding = 2, 2
+[2,1] -> opened
+checkSurrounding = 4, 2
+[4,2] -> opened
+checkSurrounding = 5, 4
+checkSurrounding = 5, 5
+[5,4] -> opened
+checkSurrounding = 2, 4
+[2,4] -> opened
+checkSurrounding = 2, 3
+checkSurrounding = 2, 2
+checkSurrounding = 2, 4
+[2,3] -> opened
+checkSurrounding = 3, 2
+checkSurrounding = 2, 2
+checkSurrounding = 4, 2
+[3,2] -> opened
+checkSurrounding = 1, 3
+checkSurrounding = 2, 3
+[1,3] -> opened
+checkSurrounding = 1, 2
+checkSurrounding = 2, 2
+[1,2] -> opened
+checkSurrounding = 5, 1
+[5,1] -> opened
+checkSurrounding = 3, 3
+checkSurrounding = 2, 3
+[3,3] -> opened
+checkSurrounding = 2, 5
+checkSurrounding = 2, 4
+[2,5] -> opened
+checkSurrounding = 3, 1
+checkSurrounding = 2, 1
+[3,1] -> opened
+checkSurrounding = 4, 3
+checkSurrounding = 3, 3
+[4,3] -> opened
+checkSurrounding = 4, 1
+checkSurrounding = 3, 1
+checkSurrounding = 5, 1
+[4,1] -> opened
+mean                  =0.64
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 3, 1
+[3,1] -> opened
+checkSurrounding = 1, 2
+[1,2] -> opened
+checkSurrounding = 5, 4
+[5,4] -> opened
+checkSurrounding = 3, 3
+[3,3] -> opened
+checkSurrounding = 5, 5
+checkSurrounding = 5, 4
+[5,5] -> opened
+checkSurrounding = 1, 1
+checkSurrounding = 1, 2
+[1,1] -> opened
+checkSurrounding = 4, 5
+checkSurrounding = 5, 5
+[4,5] -> opened
+checkSurrounding = 2, 1
+checkSurrounding = 1, 1
+checkSurrounding = 3, 1
+[2,1] -> opened
+checkSurrounding = 4, 1
+checkSurrounding = 3, 1
+[4,1] -> opened
+checkSurrounding = 3, 2
+checkSurrounding = 3, 1
+checkSurrounding = 3, 3
+[3,2] -> opened
+checkSurrounding = 4, 4
+checkSurrounding = 5, 4
+[4,4] -> opened
+checkSurrounding = 5, 2
+[5,2] -> opened
+checkSurrounding = 4, 3
+checkSurrounding = 3, 3
+checkSurrounding = 4, 4
+[4,3] -> opened
+mean                  =0.52
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 5, 5
+[5,5] -> opened
+checkSurrounding = 5, 3
+[5,3] -> opened
+checkSurrounding = 4, 2
+[4,2] -> opened
+checkSurrounding = 1, 2
+[1,2] -> opened
+checkSurrounding = 4, 3
+checkSurrounding = 5, 3
+checkSurrounding = 4, 2
+[4,3] -> opened
+checkSurrounding = 1, 3
+checkSurrounding = 1, 2
+[1,3] -> opened
+checkSurrounding = 3, 1
+[3,1] -> opened
+checkSurrounding = 5, 1
+[5,1] -> opened
+checkSurrounding = 2, 2
+checkSurrounding = 1, 2
+[2,2] -> opened
+checkSurrounding = 2, 4
+[2,4] -> opened
+checkSurrounding = 3, 2
+checkSurrounding = 2, 2
+checkSurrounding = 4, 2
+checkSurrounding = 3, 1
+[3,2] -> opened
+mean                  =0.44
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 5, 1
+[5,1] -> opened
+checkSurrounding = 3, 4
+[3,4] -> opened
+checkSurrounding = 5, 3
+[5,3] -> opened
+checkSurrounding = 5, 4
+checkSurrounding = 5, 3
+[5,4] -> opened
+checkSurrounding = 2, 3
+[2,3] -> opened
+checkSurrounding = 2, 2
+checkSurrounding = 2, 3
+[2,2] -> opened
+checkSurrounding = 4, 5
+[4,5] -> opened
+checkSurrounding = 2, 5
+[2,5] -> opened
+checkSurrounding = 4, 3
+checkSurrounding = 5, 3
+[4,3] -> opened
+checkSurrounding = 3, 3
+checkSurrounding = 2, 3
+checkSurrounding = 4, 3
+checkSurrounding = 3, 4
+[3,3] -> opened
+checkSurrounding = 1, 4
+[1,4] -> opened
+checkSurrounding = 3, 2
+checkSurrounding = 2, 2
+[3,2] -> opened
+checkSurrounding = 1, 5
+checkSurrounding = 2, 5
+checkSurrounding = 1, 4
+[1,5] -> opened
+checkSurrounding = 4, 1
+checkSurrounding = 5, 1
+[4,1] -> opened
+checkSurrounding = 3, 1
+checkSurrounding = 4, 1
+checkSurrounding = 3, 2
+[3,1] -> opened
+checkSurrounding = 4, 4
+checkSurrounding = 3, 4
+checkSurrounding = 4, 5
+[4,4] -> opened
+checkSurrounding = 2, 1
+checkSurrounding = 3, 1
+[2,1] -> opened
+checkSurrounding = 5, 2
+checkSurrounding = 5, 1
+[5,2] -> opened
+checkSurrounding = 1, 1
+checkSurrounding = 2, 1
+[1,1] -> opened
+mean                  =0.76
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
+checkSurrounding = 3, 2
+[3,2] -> opened
+checkSurrounding = 5, 3
+[5,3] -> opened
+checkSurrounding = 5, 4
+checkSurrounding = 5, 3
+[5,4] -> opened
+checkSurrounding = 2, 1
+[2,1] -> opened
+checkSurrounding = 2, 5
+[2,5] -> opened
+checkSurrounding = 1, 4
+[1,4] -> opened
+checkSurrounding = 3, 1
+checkSurrounding = 2, 1
+checkSurrounding = 3, 2
+[3,1] -> opened
+checkSurrounding = 4, 5
+[4,5] -> opened
+checkSurrounding = 4, 1
+checkSurrounding = 3, 1
+[4,1] -> opened
+checkSurrounding = 1, 5
+checkSurrounding = 2, 5
+checkSurrounding = 1, 4
+[1,5] -> opened
+checkSurrounding = 2, 3
+[2,3] -> opened
+checkSurrounding = 3, 5
+checkSurrounding = 2, 5
+checkSurrounding = 4, 5
+[3,5] -> opened
+checkSurrounding = 4, 3
+checkSurrounding = 5, 3
+[4,3] -> opened
+checkSurrounding = 5, 1
+checkSurrounding = 4, 1
+[5,1] -> opened
+checkSurrounding = 1, 1
+checkSurrounding = 2, 1
+[1,1] -> opened
+mean                  =0.6
+stddev                  =NaN
+95% confidence interval          =NaN, NaN
